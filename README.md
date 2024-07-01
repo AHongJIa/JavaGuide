@@ -331,41 +331,41 @@ JVM 这部分内容主要参考 [JVM 虚拟机规范-Java8](https://docs.oracle.
 
 ### 理论&算法&协议
 
-- [CAP 理论和 BASE 理论解读](https://javaguide.cn/distributed-system/protocol/cap-and-base-theorem.html)
-- [Paxos 算法解读](https://javaguide.cn/distributed-system/protocol/paxos-algorithm.html)
-- [Raft 算法解读](https://javaguide.cn/distributed-system/protocol/raft-algorithm.html)
-- [Gossip 协议详解](https://javaguide.cn/distributed-system/protocol/gossip-protocl.html)
+- [CAP 理论和 BASE 理论解读](.docs/distributed-system/protocol/cap-and-base-theorem.md)
+- [Paxos 算法解读](.docs/distributed-system/protocol/paxos-algorithm.md)
+- [Raft 算法解读](.docs/distributed-system/protocol/raft-algorithm.md)
+- [Gossip 协议详解](.docs/distributed-system/protocol/gossip-protocl.md)
 
 ### RPC
 
-- [RPC 基础知识总结](https://javaguide.cn/distributed-system/rpc/rpc-intro.html)
-- [Dubbo 常见知识点&面试题总结](https://javaguide.cn/distributed-system/rpc/dubbo.html)
+- [RPC 基础知识总结](.docs/distributed-system/rpc/rpc-intro.md)
+- [Dubbo 常见知识点&面试题总结](.docs/distributed-system/rpc/dubbo.md)
 
 ### ZooKeeper
 
 > 这两篇文章可能有内容重合部分，推荐都看一遍。
 
-- [ZooKeeper 相关概念总结(入门)](https://javaguide.cn/distributed-system/distributed-process-coordination/zookeeper/zookeeper-intro.html)
-- [ZooKeeper 相关概念总结(进阶)](https://javaguide.cn/distributed-system/distributed-process-coordination/zookeeper/zookeeper-plus.html)
+- [ZooKeeper 相关概念总结(入门)](.docs/distributed-system/distributed-process-coordination/zookeeper/zookeeper-intro.md)
+- [ZooKeeper 相关概念总结(进阶)](.docs/distributed-system/distributed-process-coordination/zookeeper/zookeeper-plus.md)
 
 ### API 网关
 
-- [API 网关基础知识总结](https://javaguide.cn/distributed-system/api-gateway.html)
+- [API 网关基础知识总结](.docs/distributed-system/api-gateway.md)
 - [Spring Cloud Gateway 常见知识点&面试题总结](./docs/distributed-system/spring-cloud-gateway-questions.md)
 
 ### 分布式 ID
 
-- [分布式ID介绍&实现方案总结](https://javaguide.cn/distributed-system/distributed-id.html)
-- [分布式 ID 设计指南](https://javaguide.cn/distributed-system/distributed-id-design.html)
+- [分布式ID介绍&实现方案总结](.docs/distributed-system/distributed-id.md)
+- [分布式 ID 设计指南](.docs/distributed-system/distributed-id-design.md)
 
 ### 分布式锁
 
-- [分布式锁介绍](https://javaguide.cn/distributed-system/distributed-lock.html)
-- [分布式锁常见实现方案总结](https://javaguide.cn/distributed-system/distributed-lock-implementations.html)
+- [分布式锁介绍](.docs/distributed-system/distributed-lock.md)
+- [分布式锁常见实现方案总结](.docs/distributed-system/distributed-lock-implementations.md)
 
 ### 分布式事务
 
-[分布式事务常见知识点&面试题总结](https://javaguide.cn/distributed-system/distributed-transaction.html)
+[分布式事务常见知识点&面试题总结](.docs/distributed-system/distributed-transaction.md)
 
 ### 分布式配置中心
 
